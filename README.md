@@ -2,8 +2,6 @@
 
 Backend developer focused on building reliable APIs and scalable data layers — no magic, no shortcuts.
 
-Python · FastAPI · PostgreSQL · clean architecture · production mindset
-
 ---
 
 ## Stack
@@ -25,14 +23,5 @@ Python · FastAPI · PostgreSQL · clean architecture · production mindset
 
 ## Stats
 
-<!-- Recommended themes for your stack: "tokyonight" (dark, professional), "gruvbox" (warm contrast), "nord" (clean and minimal) -->
-
-![ViktorKrivoruchko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViktorKrivoruchko&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorKrivoruchko&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## Contact
-
-[![Telegram](https://img.shields.io/badge/Telegram-@IViTaYI-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/IViTaYI)
+![GitHub Stats](https://streak-stats.demolab.com?user=ViktorKrivoruchko&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ViktorKrivoruchko&theme=tokyonight)
